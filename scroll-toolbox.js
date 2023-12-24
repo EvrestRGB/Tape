@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         scroll toolbox
-// @namespace    https://github.com/KID-joker/userscript
+// @namespace    https://github.com/evrestrgb/Tape
 // @version      1.0.8
-// @updateURL    https://github.com/KID-joker/userscript/blob/main/scroll-toolbox.js
-// @downloadURL  https://github.com/KID-joker/userscript/blob/main/scroll-toolbox.js
-// @supportURL   https://github.com/KID-joker/userscript/issues
+// @updateURL    https://github.com/evrestrgb/Tape/blob/main/scroll-toolbox.js
+// @downloadURL  https://github.com/evrestrgb/Tape/blob/main/scroll-toolbox.js
+// @supportURL   https://github.com/evrestrgb/Tape/issues
 // @description  About scrolling while browsing the web
-// @author       KID-joker
+// @author       evrest
 // @match        *://*/*
 // @icon         https://raw.githubusercontent.com/KID-joker/userscript/main/assets/scroll.ico
 // @grant        GM_log
