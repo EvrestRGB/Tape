@@ -2,12 +2,12 @@
 // @name         AddYouTubeShortcuts
 // @version      1.0.3
 // @description  Add YouTube keyboard shortcuts to any video
-// @author       kevduc
-// @namespace    https://kevduc.github.io/
-// @homepageURL  https://github.com/kevduc/userscripts
-// @downloadURL  https://raw.githubusercontent.com/kevduc/userscripts/master/AddYouTubeShortcuts.user.js
-// @updateURL    https://raw.githubusercontent.com/kevduc/userscripts/master/AddYouTubeShortcuts.user.js
-// @supportURL   https://github.com/kevduc/userscripts/issues
+// @author       evrest
+// @namespace    https://github.com/evrestrgb
+// @homepageURL  https://github.com/evrestrgb/Tape
+// @downloadURL  https://raw.githubusercontent.com/evrestrgb/Tape/master/AddYouTubeShortcuts.user.js
+// @updateURL    https://raw.githubusercontent.com/kevrestrgb/Tape/main/AddYouTubeShortcuts.user.js
+// @supportURL   https://github.com/evrestrgb/Tape/issues
 // @include      *
 // @exclude      https://www.youtube.com/*
 // remove the line above if you want to run the script on YouTube
