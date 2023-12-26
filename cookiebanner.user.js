@@ -3,7 +3,7 @@
 // @namespace    http://blog.deobald.org/
 // @description  Get rid of EU Cookie Banners
 // @license      http://creativecommons.org/licenses/by-nc-sa/3.0/
-// @downloadURL  https://gist.githubusercontent.com/BlaM/6d826d6e9d77d2d77bf9a92fdad55788/raw/cookiebanner-go-away.user.js
+// @downloadURL  https://github.com/EvrestRGB/Tape/blob/main/cookiebanner.user.js
 // @homepage     https://gist.github.com/BlaM/6d826d6e9d77d2d77bf9a92fdad55788
 // @version      0.3.4
 // @author       Dominik Deobald
